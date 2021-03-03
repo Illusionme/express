@@ -39,3 +39,7 @@ app.use(function(err, req, res, next) {
 });
 
 module.exports = app;
+
+// slack client sec: 0e6e09ffe7e002a1fbb65ca54baf6026
+//app id: A01QFUNPAMP
+//client id: 513268768450.1831974792737
