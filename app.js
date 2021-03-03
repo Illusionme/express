@@ -43,3 +43,4 @@ module.exports = app;
 // slack client sec: 0e6e09ffe7e002a1fbb65ca54baf6026
 //app id: A01QFUNPAMP
 //client id: 513268768450.1831974792737
+//slack: xapp-1-A01QFUNPAMP-1816267779381-ff7dabbb53e920a1f56eaaa8e2e29a8e07f832fc2733a8c4eb11ff186a3ef59d
